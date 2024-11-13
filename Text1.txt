@@ -1,6 +1,7 @@
 public class Demo{
 	public static void main(String[]args){
 		int d=10;
-		
+		int c=10;
+		String z="Ruthik";
 	}
 }
